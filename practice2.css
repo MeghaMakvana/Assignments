@@ -1,0 +1,44 @@
+body{
+   
+
+}
+.box{
+    border: 10px solid #1e1a27;
+    color:firebrick;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(red,green);
+
+    
+
+}
+.box h1{
+    text-align: center;
+    background-color: rosybrown;
+}
+.box1{
+       font: size 20px
+           
+}
+.box1 p{
+    color: black;
+}
+.box1 h1{
+    text-align: right;
+    background-color: black;
+}
+  input[type="submit"]
+{
+    color: blue;
+}
+#box2{
+    
+    height: 50%;
+    width: 50%;
+    background: blue;
+}
+.img{
+    height: 65%px;
+    width: 40%;
+}
+
